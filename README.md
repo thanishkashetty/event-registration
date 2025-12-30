@@ -46,9 +46,3 @@ EventRegistrationSystem/
 - The backend saves it into MongoDB and returns responses to the frontend.  
 - Organizers can view or manage participant records from the dashboard.
 
-## 👩‍💻 Author
-**Thanishka Shetty**  
-Master of Computer Applications (MCA)  
-St. Aloysius (Deemed to be University), Mangaluru  
-📧 thanishkashetty23@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/thanishka-shetty-2716442b8)
