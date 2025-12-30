@@ -18,7 +18,7 @@ Version Control: Git & GitHub
 
 ## ⚙️ How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/yourusername/Event-Registration-System.git
+   git clone https://github.com/thanishkashetty/event-registration.git
 
 2. Setup backend:
    cd backend  
